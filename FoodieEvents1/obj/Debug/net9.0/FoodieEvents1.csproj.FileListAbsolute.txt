@@ -1,8 +1,0 @@
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.csproj.AssemblyReference.cache
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.AssemblyInfoInputs.cache
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.AssemblyInfo.cs
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.csproj.CoreCompileInputs.cache
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lab15-PC01\Documents\GitHub\TP_FoodieEvents1\FoodieEvents1\obj\Debug\net9.0\FoodieEvents1.MvcApplicationPartsAssemblyInfo.cache
