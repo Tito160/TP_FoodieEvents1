@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo", "Repo\Repo.csproj", "{AF48C99E-ED51-45E3-B8B4-66778F95942C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodieEvents", "FoodieEvents\FoodieEvents.csproj", "{215A8073-9568-4CC5-BE7A-937DD0A7A493}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{AF48C99E-ED51-45E3-B8B4-66778F95942C}.Release|x64.Build.0 = Release|Any CPU
 		{AF48C99E-ED51-45E3-B8B4-66778F95942C}.Release|x86.ActiveCfg = Release|Any CPU
 		{AF48C99E-ED51-45E3-B8B4-66778F95942C}.Release|x86.Build.0 = Release|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Debug|x64.Build.0 = Debug|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Debug|x86.Build.0 = Debug|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Release|x64.ActiveCfg = Release|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Release|x64.Build.0 = Release|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Release|x86.ActiveCfg = Release|Any CPU
+		{215A8073-9568-4CC5-BE7A-937DD0A7A493}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

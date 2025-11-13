@@ -1,10 +1,9 @@
-namespace Enum
+namespace TP_FoodieEvents1;
+
+public enum TipoEvento
 {
-    public enum TipoEvento
-    {
-        Cata,
-        Feria,
-        Clase,
-        CenaTematica
-    }
+    Cata,
+    Feria,
+    Clase,
+    CenaTematica
 }

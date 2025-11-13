@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace Interfaz
 {
-    public interface IReporte
+    public interface IReporte<T>
     {
-        
+        IEnumerable<T> Generar();
     }
 }

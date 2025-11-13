@@ -1,0 +1,5 @@
+D:\Repos\TP_FoodieEvents1\FoodieEvents\obj\Debug\net7.0\FoodieEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\TP_FoodieEvents1\FoodieEvents\obj\Debug\net7.0\FoodieEvents.AssemblyInfoInputs.cache
+D:\Repos\TP_FoodieEvents1\FoodieEvents\obj\Debug\net7.0\FoodieEvents.AssemblyInfo.cs
+D:\Repos\TP_FoodieEvents1\FoodieEvents\obj\Debug\net7.0\FoodieEvents.csproj.CoreCompileInputs.cache
+D:\Repos\TP_FoodieEvents1\FoodieEvents\obj\Debug\net7.0\FoodieEvents.sourcelink.json

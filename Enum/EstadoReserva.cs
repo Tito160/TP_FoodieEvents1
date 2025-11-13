@@ -1,9 +1,8 @@
-namespace Enum
+namespace Enum;
+
+public enum EstadoReserva
 {
-    public enum EstadoReserva
-    {
-        Pendiente,
-        Confirmada,
-        Cancelada
-    }
+    Pendiente,
+    Confirmada,
+    Cancelada
 }

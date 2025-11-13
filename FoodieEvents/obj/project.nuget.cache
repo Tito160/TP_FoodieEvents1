@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "s+IDinfb63P98djNqjyBNYq4Y4YR13lH6hAbzhzH686pnWO4DzrOBEY+rlonXA7dXJ/L74p5vtnb9eTr2UnZ9A==",
+  "dgSpecHash": "nVWqupBqnAo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\psarmiento2167\\Documents\\GitHub\\TP_FoodieEvents1-\\FoodieEvents\\FoodieEvents.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\Repos\\TP_FoodieEvents1\\FoodieEvents\\FoodieEvents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lab20-PC02\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Lab20-PC02\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Lab20-PC02\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Lab20-PC02\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

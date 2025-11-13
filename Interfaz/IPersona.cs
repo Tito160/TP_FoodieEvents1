@@ -1,16 +1,12 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Interfaz
+namespace TP_FoodieEvents1.Interfaz;
+
+public interface IPersona
 {
-    public interface IPersona
-    {
-        Guid Id { get; }
-        string Nombre { get; }
-        string Email { get; }
-        string Telefono { get; }
-        string ObtenerContacto();
-    }
+    Guid Id { get; }
+    string Nombre { get; }
+    string Email { get; }
+    string Telefono { get; }
+    string ObtenerContacto();
 }

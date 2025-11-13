@@ -1,9 +1,8 @@
-namespace Enum
+namespace Enum;
+
+public enum MetodoPago
 {
-    public enum MetodoPago
-    {
-        Tarjeta,
-        Transferencia,
-        Efectivo
-    }
+    Tarjeta,
+    Transferencia,
+    Efectivo
 }
